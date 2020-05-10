@@ -8,7 +8,7 @@
 
 * :woman_office_worker: Kayla Bell - Front End / Back End
 
-⭐️ [React Portfolio] (https://kbell28k.github.io/turbo-octo-spoon/#/about)
+⭐️ Access my portfolio here: (https://kbell28k.github.io/turbo-octo-spoon/#/about)
 
 
 
