@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/turbo-octo-spoon/precache-manifest.58bf6d551f9473bdc906e33169a84c4d.js"
+  "/turbo-octo-spoon/precache-manifest.73f2c69ee247a0bf721b4b54599c38b6.js"
 );
 
 workbox.clientsClaim();
